@@ -79,6 +79,10 @@ section {
 	margin-left: 50px;
 }
 
+.navbar-brand h1 {
+	padding-left: 0;
+}
+
 }
 
 /********** Small devices only (tablet) **********/
