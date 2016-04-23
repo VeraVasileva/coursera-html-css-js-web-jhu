@@ -26,3 +26,4 @@ byeSpeaker.speakWord = function () {
 window.byeSpeaker = byeSpeaker;
 
 })(window);
+
