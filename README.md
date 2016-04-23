@@ -1,3 +1,3 @@
 # coursera-html-css-js-web-jhu
-HTML, CSS, and Javascript for Web Developers Coursera Course, Johns Hopkins University - Assignments<br>
-Part 4 of a 6-course series, the Ruby on Rails Web Development Specialization 
+<strong>HTML, CSS, and Javascript for Web Developers</strong> Coursera Course, Johns Hopkins University - Assignments<br>
+Part <strong>4</strong> of a 6-course series, the <strong>Ruby on Rails Web Development Specialization</strong> 
