@@ -9,6 +9,7 @@
 <div>
   <section>
     <h4><strong>Module 2</strong></h4>
+    <span><I>Responsive design.</I></span>
     <div>
       <ul>
         <li><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/menu">Source code</a>
@@ -19,6 +20,7 @@
 
   <section>
     <h4><strong>Module 3</strong> (including optional part)</h4>
+    <span><I>Responsive design.</I></span>
     <div>
       <ul>
         <li><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/menu_module3_opt">Source code</a>
