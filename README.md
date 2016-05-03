@@ -1,6 +1,6 @@
 # coursera-html-css-js-web-jhu
 <header>
-  <div><h3>Assignments</h3></div>
+  <h3>Assignments</h3>
   <p><strong>HTML, CSS, and Javascript for Web Developers</strong> Coursera Course, <I>Johns Hopkins University</I><br>
   Part <strong>4</strong> of a 6-course series, the <strong>Ruby on Rails Web Development Specialization</strong></p> 
   <p><a href="http://veravasileva.github.io/coursera-html-css-js-web-jhu/"><strong>GitHub Page of current repository</strong></a></p>
