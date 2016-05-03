@@ -8,7 +8,7 @@
 
 <div>
   <section>
-    <h5><strong>Module 2</strong></h5>
+    <h4><strong>Module 2</strong></h4>
     <div>
       <ul>
         <li><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/menu">Source code</a>
@@ -28,7 +28,7 @@
   </section>
         
   <section>
-    <h3><strong>Module 4</strong> (open Chrome DevTools Console)</h3>
+    <h4><strong>Module 4</strong> (open Chrome DevTools Console)</h4>
     <span><I>If the name starts with a letter ‘j’ or ‘J’, it's necessary to print out “Goodbye JSomeName”. If the name starts with any other letter, it's necessary to print out “Hello SomeName”.</I></span>
     <div>
       <ul>
@@ -39,7 +39,7 @@
   </section>
 
   <section>
-    <h3><strong>Module 5</strong></h3>
+    <h4><strong>Module 5</strong></h4>
     <span><I>The web app takes the user to a random single category menu page when the user clicks on the Specials tile.</I></span>
     <div>
       <ul>
