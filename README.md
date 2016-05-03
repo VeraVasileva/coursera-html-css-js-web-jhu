@@ -8,8 +8,12 @@
 
 <section>
   <div><h4>Module2</h4></div>
-  <div><h5><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/menu">Source code</a></h5></p>
-  <div><h5><a href="http://veravasileva.github.io/coursera-html-css-js-web-jhu/menu/">Prototype on gh-pages</a></h5></div>
+  <div>
+    <ul>
+      <li><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/menu">Source code</a>
+      <li><a href="http://veravasileva.github.io/coursera-html-css-js-web-jhu/menu/">Prototype on gh-pages</a>
+    </ul>
+  </div>
 </section>
 
 <section>
