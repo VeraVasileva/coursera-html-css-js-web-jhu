@@ -8,7 +8,7 @@
 
 <div>
   <section>
-    <h3><strong>Module 2</strong></h3>
+    <h5><strong>Module 2</strong></h5>
     <div>
       <ul>
         <li><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/menu">Source code</a>
@@ -18,7 +18,7 @@
   </section>
 
   <section>
-    <h3><strong>Module 3</strong> (including optional part)</h3>
+    <h4><strong>Module 3</strong> (including optional part)</h4>
     <div>
       <ul>
         <li><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/menu_module3_opt">Source code</a>
