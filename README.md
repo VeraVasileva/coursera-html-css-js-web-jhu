@@ -20,13 +20,14 @@
 
 <section>
   <div><h4>Module4 (open Chrome DevTools Console)</h4></div>
+  <span><I>If the name starts with a letter ‘j’ or ‘J’, it's necessary to print out “Goodbye JSomeName”. If the name starts with any other letter, it's necessary to print out “Hello SomeName”.</I></span> 
   <div><h5><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/module4">Source code</a></h5></div>
   <div><h5><a href="http://veravasileva.github.io/coursera-html-css-js-web-jhu/module4/">Prototype on gh-pages</a></h5></div>
 </section>
 
 <section>
   <div><h4>Module5</h4></div>
-  <span><I>The web app takes the user to a random single category menu page when the user clicks on the Specials tile</I></span>
+  <span><I>The web app takes the user to a random single category menu page when the user clicks on the Specials tile.</I></span>
   <div><h5><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/module5">Source code</a></h5></div>
   <div><h5><a href="http://veravasileva.github.io/coursera-html-css-js-web-jhu/module5/">Prototype on gh-pages</a></h5></div>
 </section>
