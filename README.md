@@ -7,7 +7,7 @@
 </header>
 
 <section>
-  <div><h4>Module2</h4></div>
+  <div><h5>Module2</h5></div>
   <div>
     <ul>
       <li><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/menu">Source code</a>
@@ -17,21 +17,33 @@
 </section>
 
 <section>
-  <div><h4>Module3 (including optional part)</h4></div>
-  <div><h5><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/menu_module3_opt">Source code</a></h5></div>
-  <div><h5><a href="http://veravasileva.github.io/coursera-html-css-js-web-jhu/menu_module3_opt/">Prototype on gh-pages</a></h5></div>
+  <div><h5>Module3 (including optional part)</h5></div>
+  <div>
+    <ul>
+      <li><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/menu_module3_opt">Source code</a>
+      <li><a href="http://veravasileva.github.io/coursera-html-css-js-web-jhu/menu_module3_opt/">Prototype on gh-pages</a>
+    </ul>
+  </div>
 </section>
 
 <section>
-  <div><h4>Module4 (open Chrome DevTools Console)</h4></div>
-  <span><I>If the name starts with a letter ‘j’ or ‘J’, it's necessary to print out “Goodbye JSomeName”. If the name starts with any other letter, it's necessary to print out “Hello SomeName”.</I></span> 
-  <div><h5><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/module4">Source code</a></h5></div>
-  <div><h5><a href="http://veravasileva.github.io/coursera-html-css-js-web-jhu/module4/">Prototype on gh-pages</a></h5></div>
+  <div><h5>Module4 (open Chrome DevTools Console)</h5></div>
+  <span><I>If the name starts with a letter ‘j’ or ‘J’, it's necessary to print out “Goodbye JSomeName”. If the name starts with any other letter, it's necessary to print out “Hello SomeName”.</I></span>
+  <div>
+    <ul>
+      <li><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/module4">Source code</a>
+      <li><a href="http://veravasileva.github.io/coursera-html-css-js-web-jhu/module4/">Prototype on gh-pages</a>
+    </ul>
+  </div>
 </section>
 
 <section>
-  <div><h4>Module5</h4></div>
+  <div><h5>Module5</h5></div>
   <span><I>The web app takes the user to a random single category menu page when the user clicks on the Specials tile.</I></span>
-  <div><h5><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/module5">Source code</a></h5></div>
-  <div><h5><a href="http://veravasileva.github.io/coursera-html-css-js-web-jhu/module5/">Prototype on gh-pages</a></h5></div>
+  <div>
+    <ul>
+      <li><a href="https://github.com/VeraVasileva/coursera-html-css-js-web-jhu/tree/gh-pages/module5">Source code</a>
+      <li><a href="http://veravasileva.github.io/coursera-html-css-js-web-jhu/module5/">Prototype on gh-pages</a>
+    </ul>
+  </div>
 </section>
